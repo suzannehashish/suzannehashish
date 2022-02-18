@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @suzannehashish
 - 👀 I’m interested in data science with python
 - 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: suzanneallam@gmail.com
 
 <!---
